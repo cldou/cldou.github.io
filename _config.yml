@@ -6,7 +6,7 @@ title                    : "Chenglong Dou - Homepage"
 title_separator          : "-"
 name                     : &name "Chenglong Dou"
 description              : &description "Postdoc"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://cldou.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://www.cldou.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cldou/cldou.github.io"
